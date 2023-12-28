@@ -1,4 +1,4 @@
-package Java_basics;
+package Java_basics_01;
 
 public class Java_concept_01 {
 

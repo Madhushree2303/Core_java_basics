@@ -1,4 +1,4 @@
-package Java_basics;
+package Java_basics_01;
 public class Java_concept_04 {
     public static void main(String[] args) {
         //final keyword - if final keyword is declared to any of the variable then we cannot change the variable value
