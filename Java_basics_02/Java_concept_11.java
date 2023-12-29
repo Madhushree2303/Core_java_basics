@@ -3,6 +3,7 @@ public class Java_concept_11 {
     public static void main(String[] args) {
 
         String name="madhu";
+        String name1="Madhu";
 
         System.out.println(name.length());
         System.out.println(name.toLowerCase());
@@ -21,6 +22,11 @@ public class Java_concept_11 {
         System.out.println(name+username+a+b);
         System.out.println(username+a+name+b);
         System.out.println(name+username+(a+b));
+
+        System.out.println(name==name1);
+        System.out.println(name.equals(name1));
+        System.out.println(name.equalsIgnoreCase(name1));
+
     }
 }
 
