@@ -1,5 +1,5 @@
 package Java_basics_04;
-public class Java_concept_33 {
+public class Java_concept_34 {
     public static void main(String[] args) {
 
         // for( A ;B ; C)
