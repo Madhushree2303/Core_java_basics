@@ -25,6 +25,7 @@ public class Java_concept_24 {
                 break;
             case "edge":
                 System.out.println("execute the code in edge browser");
+                break;
             default:
                 System.out.println("No idea about the browser");
 
