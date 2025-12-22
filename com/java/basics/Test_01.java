@@ -11,6 +11,7 @@ public class Test_01 {
             sum=sum+a[i];
         }
         System.out.println(sum);
+        System.out.println("Testcase added for testing");
 
     }
 }
