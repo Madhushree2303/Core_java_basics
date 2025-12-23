@@ -2,9 +2,19 @@ package com.java.basics;
 
 public class Test_02 {
 
-    public static void main(String[] args) {
-        System.out.println("Bug fix");
+    public void m1(int a,int b){
+        a=a+b;
+        b=a-b;
+        a=a-b;
+        System.out.println(a +" "+b);
 
-        System.out.println("Bug fix -1");
+    }
+
+    public static void main(String[] args) {
+       Test_02 test02=new Test_02();
+
+       test02.m1(10,20);
+
+
     }
 }
