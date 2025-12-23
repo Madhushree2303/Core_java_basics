@@ -15,6 +15,10 @@ public class Test_02 {
 
        test02.m1(10,20);
 
+        System.out.println("New changes directly done form git");
+
+        
+
 
     }
 }
